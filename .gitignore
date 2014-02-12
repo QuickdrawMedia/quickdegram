@@ -1,0 +1,4 @@
+node_modules
+prod
+bower_components
+/nbproject/private/
