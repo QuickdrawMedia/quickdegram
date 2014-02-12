@@ -1,4 +1,4 @@
-# Quickdegram (Based on the Roostagram project at San Diego Roost Conference 2014)
+# QuickDeGram! (Based on the Roostagram project at San Diego Roost Conference 2014)
 
 ## Installation
 
